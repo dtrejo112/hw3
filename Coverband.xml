@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Coverband.xsl" ?>
+<CoverBand name="Imaginary Band" established="2020"> 
+    <SetList>
+        <song lang="en">
+            <title> My Life </title>
+            <album> single </album>
+            <artist> Bravo The Bagchaser </artist>
+            <genre> Rap/Hip-Hop </genre>
+            <releaseDate> 04/04/18 </releaseDate>
+            <duration> 2:09 </duration>
+        </song>
+        <song lang="en">
+            <title> Change Ya Life </title>
+            <album> Mafia Bidness </album>
+            <artist> Shoreline Mafia </artist>
+            <genre> Rap/Hip-Hop </genre>
+            <releaseDate> 07/31/20 </releaseDate>
+            <duration> 2:40 </duration>
+        </song>
+        <song lang="en">
+            <title> Do For Love </title>
+            <album> R u Still Down? </album>
+            <artist> 2Pac </artist>
+            <genre> Rap/Hip-Hop </genre>
+            <releaseDate> 1996 </releaseDate>
+            <duration> 3:10 </duration>
+        </song>
+        <song lang="en">
+            <title> La Vi Llorar </title>
+            <album> Cruisin' </album>
+            <artist> Junior H </artist>
+            <genre> Mexican Regional </genre>
+            <releaseDate> 2020 </releaseDate>
+            <duration> 4:45 </duration>
+        </song>
+        <song lang="en">
+            <title> Child's Play </title>
+            <album> Views </album>
+            <artist>  Drake </artist>
+            <genre> Rap/Hip-Hop </genre>
+            <releaseDate>  2016 </releaseDate>
+            <duration>  4:01 </duration>
+        </song>
+         <song lang="en">
+            <title> Clouded </title>
+            <album> Sonder Son </album>
+            <artist>  Brent Faiyaz</artist>
+            <genre>  R&amp;B </genre>
+            <releaseDate> 2017 </releaseDate>
+            <duration>  1:50 </duration>
+        </song>
+         <song lang="en">
+            <title> Dame Tu Calor </title>
+            <album> Noches De Vibras </album>
+            <artist>  Eslabon Armado</artist>
+            <genre>  Mexican Regional</genre>
+            <releaseDate>  2020 </releaseDate>
+            <duration>  3:40 </duration>
+        </song>
+         <song lang="en">
+            <title> Heartbreak Anniversary </title>
+            <album> Take Time </album>
+            <artist>  Giveon </artist>
+            <genre> R&amp;B  </genre>
+            <releaseDate> 2020 </releaseDate>
+            <duration>  3:16 </duration>
+        </song>
+         <song lang="en">
+            <title> 44 BullDog </title>
+            <album> Shoot For The Stars Aim For The Moon </album>
+            <artist>  Pop Smoke </artist>
+            <genre>  Rap/Hip-Hop</genre>
+            <releaseDate> 2020 </releaseDate>
+            <duration>  2:30 </duration>
+        </song>
+         <song lang="en">
+             <title> Yea Yea </title>
+            <album> Shoot For The Stars Aim For The Moon </album>
+            <artist>  Pop Smoke </artist>
+            <genre>  Rap/Hip-Hop</genre>
+            <releaseDate>  2020 </releaseDate>
+            <duration>  3:05 </duration>
+        </song>
+    </SetList>
+</CoverBand>
